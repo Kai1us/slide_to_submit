@@ -1,16 +1,15 @@
-# slide_to_submit
+# Slide_To_Submit  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<img src='https://github.com/Kai1us/slide_to_submit/blob/main/screenshots/1.png' align='left' width='25%'>
 
-This project is a starting point for a Flutter application.
+<img src='https://github.com/Kai1us/slide_to_submit/blob/main/screenshots/2.png' align='left' width='25%'>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Getting Started With Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - [Flutter Website](https://flutter.dev/)
+
+
+ 
